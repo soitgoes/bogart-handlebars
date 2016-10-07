@@ -1,6 +1,6 @@
 {
   "name": "bogart-handlebars",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "description": "Handlebars tools for Bogart",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "underscore": "~1.6.0",
     "handlebars": "^4.0.5",
     "handlebars-layouts": "=3.1.3",
-    "handlebars-load-tree": "=0.10.0"
+    "handlebars-load-tree": "=0.10.1"
   }
 }
